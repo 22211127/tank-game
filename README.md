@@ -1,6 +1,6 @@
 # 坦克大战 · Tank Battle
 
-用 **Next.js 15 + React 19 + Canvas** 实现的经典「坦克大战」游戏。
+用 **Next.js 15 + React 19 + Canvas** 实现的经典「坦克大战」2游戏。
 
 ![game](https://img.shields.io/badge/Next.js-15-black) ![react](https://img.shields.io/badge/React-19-blue)
 
