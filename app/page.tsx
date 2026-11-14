@@ -132,7 +132,7 @@ export default function TankGame() {
 
         {phase === "menu" && (
           <div className="overlay">
-            <h1>坦克大战</h1>
+            <h1>跑男爬爬虾大战</h1>
             <p>保卫基地，消灭所有敌方坦克！</p>
             <div className="keys">
               <span><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> / 方向键 移动</span>
